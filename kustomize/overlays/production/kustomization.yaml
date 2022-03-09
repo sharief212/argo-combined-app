@@ -5,5 +5,5 @@ resources:
 - hpa.yaml
 - istio.yaml
 - rollout.yaml
-namespace: production
+namespace: argocd
 
